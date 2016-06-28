@@ -1,3 +1,5 @@
+//http://www.wooyun.org/bugs/wooyun-2015-158577 
+
 # Jetleak Testing Script
 
 This tool is intended to provide a quick-and-dirty way for organizations to test whether their Jetty web server versions are vulnerable to JetLeak. Currently, this script does not handle sites with invalid SSL certs. This will be fixed in a future iteration.
